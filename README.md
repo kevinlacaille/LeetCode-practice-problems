@@ -1,2 +1,2 @@
 # LeetCode-practice-problems
-Solutins to practice problems from LeetCode.com !
+Submissions and solutions to practice problems from https://leetcode.com/problemset/all/ !
