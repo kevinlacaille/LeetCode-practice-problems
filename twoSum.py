@@ -25,3 +25,5 @@ def twoSum(self, nums, target):
     # If nothing adds up to target, then return  empty list
     return []
 
+if __name__ == '__main__':
+    twoSum(self, nums, target)
