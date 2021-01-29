@@ -13,7 +13,7 @@ public:
         // Otherwise, add even elements to front of vector and odd to the back
         else{
 
-            for(int i = 0; i < A.size(); i++){
+            for(unsingned i = 0; i < A.size(); i++){
 
                 // Add even elements to front of the vector
                 if (A[i] % 2 == 0){
